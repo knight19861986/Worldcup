@@ -1,16 +1,15 @@
 
 ## World Cup Groupping Tool
-===========================
+
 
 
 ##### Description
-=================
+
 
 
    
 
 ##### Key Features
-==================
 
 - Randomly result a grouping for FIFA world cup 2018, according to grouping rules of FIFA 
 - Calculate the probability of  country teams being in one group
