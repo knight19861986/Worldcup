@@ -1,17 +1,12 @@
 
 ## World Cup Groupping Tool
 
+### Description
+A project written in python, contain several scripts to randomize groups for FIFA World Cup 2018, as well as some useful calculation of certain related probabilities.   
 
+### Key Features
 
-##### Description
-
-
-
-   
-
-##### Key Features
-
-- Randomly result a grouping for FIFA world cup 2018, according to grouping rules of FIFA 
+- Randomly result a grouping for FIFA World Cup 2018, according to grouping rules of FIFA 
 - Calculate the probability of  country teams being in one group
 - Calculate the probability of a country team avoiding several certain country teams being in the same group
 
