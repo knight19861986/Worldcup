@@ -13,7 +13,11 @@ A project written in python, containing several scripts to randomize groups for 
 ### Requirements
 - Python >= 2.7
 
-### Getting started
+### Usage
+
+- python groupping_2018.py
+
+- python same_group_2018.py country1 [country2 country3...]
 
 
 ### Future scalability
