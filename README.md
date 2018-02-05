@@ -17,8 +17,11 @@ A project written in python, containing several scripts to randomize groups for 
 
 - python groupping_2018.py
 
-- python same_group_2018.py country1 [country2 country3...]
+- python same_group_2018.py country1 country2 [country3 county4 ...]
 
+- python avoiding_2018.py country1 country2 [country3 county4 ...]
 
-### Future scalability
+The valid values of "county" could be checked from input_data.py
 
+### Scalability
+For other world cup besides 2018, only need to change datas in input_data.py
