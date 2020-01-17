@@ -11,7 +11,7 @@ A project written in python, containing several scripts to randomize groups for 
 - Calculate the probability of a country team avoiding several certain country teams being in the same group
 
 ### Requirements
-- Python >= 2.7
+- Python >= 2.7, <3
 
 ### Usage
 
